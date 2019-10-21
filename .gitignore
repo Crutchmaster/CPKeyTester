@@ -1,3 +1,10 @@
+# Maven/eclipse
+.settings
+.classpath
+.project
+target/
+# vim
+*.swp
 # Compiled class file
 *.class
 
