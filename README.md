@@ -1,7 +1,9 @@
 # CPKeyTester
 Cryptopro + trusted java minimal example.
 
-Trusted java put in ~/.m2/repository/com/digt/trustedJava/2.0/trustedJava-2.0.jar
+Download TrustedJava : http://www.trusted.ru/support/downloads/?product=142
+
+Put jar in ~/.m2/repository/com/digt/trustedJava/2.0/trustedJava-2.0.jar
 
 Build: mvn package
 
