@@ -1,4 +1,4 @@
-package com.ric.gis.KeyTester;
+package com.test.gis.KeyTester;
 
 import java.io.ByteArrayInputStream;
 import java.nio.charset.Charset;
